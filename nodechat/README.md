@@ -1,9 +1,11 @@
 nodechat
 ========
 
-Chat with Node.js
+Chat  Node.js
 
-For installing dependencies:
+Sistemas Distribuidos - UTEA
+
+Para instalar dependencias:
 ~~~~~~~~~~~~~~~~~~~~~
 npm install
 ~~~~~~~~~~~~~~~~~~~~~
